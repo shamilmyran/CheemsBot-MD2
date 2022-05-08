@@ -3,7 +3,7 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Doge Bot 
+//© 2022 Munavir Bot Inc. MR Bot 
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 
@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
-global.ownernomer = '916909137213'
-global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
-global.footer = 'Xeon Bot Inc.'
-global.ig = 'https://github.com/DGXeon'
-global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
-global.myweb = 'https://youtu.be/imFIX-Wrt3s'
-global.packname = 'Cheems Bot'
-global.author = '🦄Dream Guy Xeon'
+global.owner = ['918590822912']
+global.premium = ['918590822912']
+global.ownernomer = '918590823912'
+global.ownername = 'munavir🤗
+global.botname = 'MR Bot MD'
+global.footer = 'munavir.'
+global.ig = 'https://github.com/'
+global.region = 'India, kerala, Malappuram'
+global.sc = 'http://wa.me/918590822912'
+global.myweb = 'http://instagram.com/_munavir._'
+global.packname = 'MR Bot'
+global.author = 'munavir🌟'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
