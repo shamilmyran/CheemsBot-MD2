@@ -1762,12 +1762,12 @@ break
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'MENU🔖',
+                                    displayText: 'ᴍᴇɴᴜ🔖',
                                     id: 'menu'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'OWNER🤗',
+                                    displayText: 'ᴏᴡɴᴇʀ🤗',
                                     id: 'owner'
                                 }
                             }]
@@ -1796,12 +1796,12 @@ break
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'MENU🔖',
+                                    displayText: 'ᴍᴇɴᴜ',
                                     id: 'menu'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'OWNER🍁',
+                                    displayText: 'ᴏᴡɴᴇʀ🍁',
                                     id: 'owner'
                                 }
                             }]
@@ -3288,7 +3288,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
                             hydratedFooterText: `┌─❖
-│「 Hi 👋 」
+│「 𝙷𝚒 👋 」
 └┬❖ 「 ${pushname} 」
 ┌┤✑  𝙼𝙳-𝙱𝙾𝚃 𝙷𝙴𝚁𝙴 👻
 ││✑  🖐️!!
@@ -3400,7 +3400,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 case 'command': {
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
-                    title: `Hi ī.am/${pushname}`,
+                    title: `𝙷𝚒 ${pushname}`,
                     description: `Please Choose The Menu\n\n`,
                     buttonText: "Menu",
                     footerText: `${global.footer}`,
@@ -3522,7 +3522,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
             case 'sc': case 'script': {
-                reply(`GitHub : https://github.com/MUNAVIR/MR-BOTV1\n \n\nl`)
+                reply(`GitHub : https://github.com/MUNAVIR/MR-BOTV1\n \n\n`)
             }
             break
 case 'allmenu': {
